@@ -1,1 +1,32 @@
- Class Diagram 
+Class Diagram 
+
+
+class Shape {
+
+public:
+
+int getArea();
+void setWidth();
+void setHeight();
+
+protect:
+
+int (integer)
+float
+};
+
+class Triangle, Circle, Regular 
+{
+public:
+
+int getAre(); {
+reurn (answer/command);
+}
+
+};
+
+int main(void)
+{
+
+return 0;
+}
