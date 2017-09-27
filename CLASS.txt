@@ -1,5 +1,5 @@
 Class Diagram 
-
+( We have to use the same fuctions in the public and protect when coding) 
 
 class Shape {
 
